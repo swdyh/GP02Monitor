@@ -1,7 +1,7 @@
 # Emobile GP02 Monitor
 
-![screencapture01](gp02_sc01.png)
-![screencapture02](gp02_sc02.png)
+![screencapture01](https://github.com/swdyh/GP02Monitor/raw/master/gp02_sc01.png)
+![screencapture02](https://github.com/swdyh/GP02Monitor/raw/master/gp02_sc02.png)
 
 ## Requirements
 
