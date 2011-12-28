@@ -98,7 +98,7 @@ class GP02Monitor
     st = get_status
     if @status && @status != st
       logger.info [:change, @status, '>', st]
-      @growl.notify st.to_s
+      @growl.notify st.to_s.capitalize
     else
       logger.info [:status, st]
     end
